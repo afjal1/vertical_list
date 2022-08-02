@@ -1,16 +1,5 @@
-# vertical_list
+##ScreenShot
 
-A new Flutter project.
 
-## Getting Started
+<img width="1440" alt="Screenshot 2022-08-02 at 1 23 04 PM" src="https://user-images.githubusercontent.com/52181725/182322339-f0f26c1d-31ef-4609-aee6-be7f858dafae.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
